@@ -2,6 +2,9 @@ body{
     font-family: 'Poppins', sans-serif;
     margin: 0px;
     }
+p{
+        color: dimgray;
+      }
 span{
     color: #FD3C3B
 }
@@ -16,12 +19,14 @@ section{
     margin-left: 5% ;
     padding-left: 2%;
     text-align:justify;
+    padding-top: 5%;
 }
 .half-width img{
-    width:100%
+    width:80%;
+    
 }
 .half-width biography{
-    margin-top: 15%;
+    padding-top: 50px;
 }
 .work-pic img{
     width:30%;
@@ -73,4 +78,5 @@ section{
   footer{
       text-align: center;
       width: 1050px;
+      font-size: 10px;
   }
