@@ -1,0 +1,76 @@
+body{
+    font-family: 'Poppins', sans-serif;
+    margin: 0px;
+    }
+span{
+    color: #FD3C3B
+}
+section{
+    height: 500px;
+    margin: 5px 10px ;
+    width: 1050px;
+}
+.half-width{
+    width: 40%;
+    float: left;
+    margin-left: 5% ;
+    padding-left: 2%;
+    text-align:justify;
+}
+.half-width img{
+    width:100%
+}
+.half-width biography{
+    margin-top: 15%;
+}
+.work-pic img{
+    width:30%;
+    float:left;
+    padding: 1%;
+}
+.first-section{
+    background-image: url(images/header-bg.png);
+    background-repeat: no-repeat;
+    background-size: 1050px 500px;
+}
+.second-section{
+    background-image: url(images/biography-bg.png);
+    background-repeat: no-repeat;
+    background-size: 1050px 500px;
+}
+.latest-work{
+    background-image: url(images/latest-work-bg.png);
+    background-repeat: no-repeat;
+    background-size: 1050px 500px;
+}
+.last-section{
+    background-image: url(images/footer-bg.png);
+    background-repeat: no-repeat;
+    background-size: 1050px 500px;
+    text-align: center;
+    
+}
+
+#contact{
+    background-color:linear-gradient(red purple);
+    position: relative;
+}
+.btn {
+    -webkit-border-radius: 28;
+    -moz-border-radius: 28;
+    border-radius: 10px;
+    font-family: 'Poppins', sans-serif;
+    background-image: linear-gradient(45deg, lightsalmon, tomato);
+    font-size: 20px;
+  
+    padding: 10px 20px 10px 20px;
+    text-decoration: none;
+    font: bold;
+    border-color: white;
+    color: white;
+  }
+
+  footer{
+      text-align: center;
+      width: 1050px;
+  }
