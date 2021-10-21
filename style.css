@@ -78,5 +78,6 @@ section{
   footer{
       text-align: center;
       width: 1050px;
-      font-size: 10px;
+      font-size: 15px;
+      color: dimgrey;
   }
